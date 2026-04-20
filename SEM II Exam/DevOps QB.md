@@ -963,4 +963,4 @@ Hour 4: Short answers (Linux + SDLC + Orchestration)
 
 ---
 
-> 🔗 **Related Notes:** [[Full_Stack_Development_QB_Enhanced]] | [[Software_Project_Management_QB_Enhanced]]
+> 🔗 **Related Notes:** [[Full Stack Development QB]] | [[Functional Programming QB]] | [[Software Project Management QB]]

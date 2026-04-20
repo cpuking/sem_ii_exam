@@ -1181,4 +1181,4 @@ Hour 4: Pattern matching + Java Streams
 
 ---
 
-> 🔗 **Related Notes:** [[DevOps_QB_Enhanced]] | [[Full_Stack_Development_QB_Enhanced]] | [[Software_Project_Management_QB_Enhanced]]
+> 🔗 **Related Notes:** [[DevOps QB]] | [[Full Stack Development QB]] | [[Software Project Management QB]]

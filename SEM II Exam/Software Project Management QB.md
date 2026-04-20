@@ -1082,4 +1082,4 @@ Hour 4: Stakeholder Management + Risk Management strategies
 
 ---
 
-> 🔗 **Related Notes:** [[DevOps_QB_Enhanced]] | [[Full_Stack_Development_QB_Enhanced]] | [[Functional_Programming_QB_Enhanced]]
+> 🔗 **Related Notes:** [[DevOps QB]] | [[Full Stack Development QB]] | [[Functional Programming QB]]

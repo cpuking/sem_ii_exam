@@ -1378,4 +1378,4 @@ Hour 4: Virtual DOM + Async patterns + MERN
 
 ---
 
-> 🔗 **Related Notes:** [[DevOps_QB_Enhanced]] | [[Functional_Programming_QB_Enhanced]] | [[Software_Project_Management_QB_Enhanced]]
+> 🔗 **Related Notes:** [[DevOps QB]] | [[Functional Programming QB]] | [[Software Project Management QB]]
