@@ -1,0 +1,34 @@
+### Topics 
+- [ ] Variables  
+- [ ] Data Types  
+- [ ] Taking Input  
+- [ ] Conditionals
+- [ ] Loops
+- [ ] Nested Loops  
+- [ ] Functions
+- [ ] Arrays
+- [ ] Time and Space Complexity  
+- [ ] 2D Arrays  
+- [ ] ArrayList
+- [ ]  Switch Cases  
+- [ ]  Selection Sort  
+- [ ] Bubble Sort  
+- [ ] Insertion Sort 
+- [ ] Strings
+- [ ] StringBuilder  
+- [ ] BufferReader
+
+IMP problems
+-  https://leetcode.com/problems/find-pivot-index/description/
+- Second Largest
+- https://leetcode.com/problems/rotate-image/
+- https://leetcode.com/problems/spiral-matrix/
+- Pattern Priting
+- Bubble Sort / Insertion Sort / Selection Sort
+- Transpose matrix
+- Add / subtract 2 arrays
+- Second Largest
+- Subarray Sum equals K
+- Pascal Triangle
+- Prefix Sum
+- Border Traversal

@@ -564,10 +564,10 @@ Node.js uses the **Event Loop** architecture:
                     ┌─────────────────────────────┐
                     │         Node.js Process      │
                     │                              │
-  Client Requests   │   ┌──────────────────────┐  │
-  ──────────────► │   │      Event Loop       │  │
+  Client Requests   │   ┌──────────────────────┐   │
+  ──────────────►   │   │      Event Loop       │  │
                     │   │  (single-threaded)    │  │
-                    │   └──────────┬───────────┘  │
+                    │   └──────────┬───────────┘   │
                     │              │               │
                     │    ┌─────────▼────────┐      │
                     │    │   Is I/O task?   │      │
